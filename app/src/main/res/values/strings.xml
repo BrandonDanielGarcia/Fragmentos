@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">G8s21Fragmentos</string>
+    <string name="btntext1">Fragmento1</string>
+    <string name="btntext2">Fragmento2</string>
+    <string name="pieapp">Pie de la aplicacion</string>
+    <string name="fg1text1">Texto en el fragmento inicial</string>
+    <string name="fg2text">Segundo fragmento lanzado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fabcargar">Cargar pagina</string>
+</resources>
